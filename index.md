@@ -27,6 +27,17 @@ Telemetry is off until you accept the in-game prompt. You can turn it off later 
 
 We use this data to find overpowered satellites, weak planets, and economy spikes. We do not use it for ads.
 
+## Google Play Games (Android)
+
+On Android, Orbitkeep can show a global ranking through Google Play Games. This is separate from telemetry and works only if you are signed in to Google Play Games.
+
+- When a run counts toward your records, its final score is sent to Google Play Games, together with your Play Games player profile, so it can appear on the global ranking.
+- The ranking shows your Play Games name and avatar to other players. Google handles this data under the [Google Privacy Policy](https://policies.google.com/privacy).
+- Orbitkeep does not receive your email and does not store your Play Games profile.
+- If you never sign in to Google Play Games, no score leaves your device for the ranking.
+
+You can manage or delete your Play Games profile and its data in the Google Play Games settings on your device.
+
 ## Deleting your data
 
 Orbitkeep does not have user accounts. The only data tied to you is the anonymous install id described above, and only if you opted in to telemetry.
