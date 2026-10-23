@@ -27,6 +27,18 @@ Telemetry is off until you accept the in-game prompt. You can turn it off later 
 
 We use this data to find overpowered satellites, weak planets, and economy spikes. We do not use it for ads.
 
+## Deleting your data
+
+Orbitkeep does not have user accounts. The only data tied to you is the anonymous install id described above, and only if you opted in to telemetry.
+
+To ask us to delete the data linked to your install:
+
+1. In the game, open Options, Privacy and turn telemetry off. This stops new run reports.
+2. Send an email to gbenatti@gmail.com with the subject "Orbitkeep data deletion". Include your Orbitkeep version and, if you can, the install id shown in Options, Privacy.
+3. We delete the run reports and records linked to that install id and reply to confirm.
+
+What is deleted: run outcomes, fleet and combat choices, draft picks, economy signals, station tech and the install id. We keep no other personal data.
+
 ## Contact
 
 For access or deletion requests, write to gbenatti@gmail.com (the same address listed on the Orbitkeep Google Play page).
