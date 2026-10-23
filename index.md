@@ -34,10 +34,10 @@ Orbitkeep does not have user accounts. The only data tied to you is the anonymou
 To ask us to delete the data linked to your install:
 
 1. In the game, open Options, Privacy and turn telemetry off. This stops new run reports.
-2. Send an email to gbenatti@gmail.com with the subject "Orbitkeep data deletion". Include your Orbitkeep version and, if you can, the install id shown in Options, Privacy.
-3. We delete the run reports and records linked to that install id and reply to confirm.
+2. Send an email to gbenatti@gmail.com with the subject "Orbitkeep data deletion". Tell us your Orbitkeep version, your device model and roughly when you played.
+3. The install id is stored only on your device and is not shown in the app, so we match reports using those details. We delete every run report we can reasonably match to your install and reply to confirm.
 
-What is deleted: run outcomes, fleet and combat choices, draft picks, economy signals, station tech and the install id. We keep no other personal data.
+Uninstalling Orbitkeep removes the install id from your device. What we delete: run outcomes, fleet and combat choices, draft picks, economy signals and station tech linked to the install. We keep no other personal data.
 
 ## Contact
 
